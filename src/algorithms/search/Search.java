@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.search;
 
 public interface Search {
 }
